@@ -1,1 +1,1 @@
-# Pok-dex-de-Leyendas-Pok-mon-Z-A-con-modelo-MVVM-Kotlin-Compose
+# Pokedex-de-Leyendas-Pokemon-Z-A-con-modelo-MVVM-Kotlin-Compose
